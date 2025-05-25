@@ -1,4 +1,4 @@
-📄 [Week 2 Notes (PDF)](./cs50/week02/week02_notes.pdf)
+📄 [Week 2 Notes (PDF)](./week02_notes.pdf)
 
 ## What I Learned:
 * It is possible to receive input through command-line arguments. The element at index 0 is always the name of the file.
