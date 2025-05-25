@@ -6,7 +6,8 @@ Considering that, the only Computer Science course we've covered in university t
 
 ## Progress
 - [x] [Week 1: C](./week01/)
-- [o] [Week 2: Arrays](./week02/)
+- [x] [Week 2: Arrays](./week02/)
+- [ ] [Week 3: Algorithms](./week03/)
 
 📌 *Note: Most of my personal notes are in simplified Azerbaijani for my own use
 
