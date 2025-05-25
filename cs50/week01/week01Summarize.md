@@ -1,4 +1,4 @@
-📄 [Week 1 Notes (PDF)](./cs50/week01/week01_notes.pdf)
+📄 [Week 1 Notes (PDF)](./week01_notes.pdf)
 
 ## What I Learned:
 * Programs are compiled and then executed, unlike Python.
