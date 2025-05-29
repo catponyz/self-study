@@ -13,7 +13,7 @@ Each folder contains:
 
 ## ✅ Current Progress
 
-- [x] [CS50](./cs50/) – In progress (currently on Week 2)
+- [x] [CS50](./cs50/) – In progress (currently on Week 3)
 - [ ] Arduino – Planned
 
 *Thanks for visiting!*

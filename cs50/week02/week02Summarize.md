@@ -11,6 +11,6 @@
 * In order to compare strings, you have to use "strcmp()".
 * The errors we get in chrome (like *error404*) are defined by programmers by Exit Status, which means they're not random numbers.
 
-## Challanges
+## Challenges
 * Understanding command-line arguments.
 * Solving the problemset, which required managing multiple exit statuses.
